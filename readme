@@ -1,0 +1,7 @@
+Here I have learned how the Docker Compose is used while managing more than one containers of different monitoring and logging tools.
+
+Here the monitoring and logging tools we are using are Elastic Search, Logstash, Kibana , Prometheus and Grafana for which we will create a docker container.
+
+Architecture of the Project:-
+
+![GitHub Logo](./Architecture.png)
